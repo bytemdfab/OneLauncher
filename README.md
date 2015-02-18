@@ -1,7 +1,13 @@
 # OneLauncher
-Набор скриптов на языке [1Script](https://github.com/xDrivenDevelopment/1script) для запуска 1С:Предприятие 8.x в пакетном режиме.
+OneLauncher - набор скриптов на языке [1Script](https://github.com/xDrivenDevelopment/1script) для запуска 1С:Предприятие 8.x в пакетном режиме.
 
-Пример использования:
+Описание скриптов:
+
+* [[launcher.os]]
+* [[config.os]]
+* [[path.os]]
+
+### Примеры использования
 
 ```
 ПодключитьСценарий("launcher.os", "МенеджерЗапуска");
