@@ -3,9 +3,9 @@ OneLauncher - набор скриптов на языке [1Script](https://gith
 
 Описание скриптов:
 
-* [launcher.os](/wiki/launcher.os)
-* [config.os](/wiki/config.os)
-* [path.os](/wiki/path.os)
+* [launcher.os](https://github.com/bytemdfab/OneLauncher/wiki/launcher.os)
+* [config.os](https://github.com/bytemdfab/OneLauncher/wiki/config.os)
+* [path.os](https://github.com/bytemdfab/OneLauncher/wiki/path.os)
 
 ### Примеры использования
 
